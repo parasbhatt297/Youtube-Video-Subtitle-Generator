@@ -8,8 +8,7 @@ words = transcribe_audio(audio_file)
 
 generate_srt(
     words,
-    output_path="subtitles.srt",
-    words_per_caption=2
+    output_path="subtitles.srt"
 )
 
 print("Subtitles generated successfully!")
