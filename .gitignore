@@ -3,3 +3,10 @@ __pycache__/
 *.pyc
 .env
 .vscode/
+audio.m4a
+*.mp3
+*.m4a
+*.wav
+*.flac
+*.ogg
+*.mp4
